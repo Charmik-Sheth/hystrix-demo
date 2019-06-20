@@ -1,0 +1,3 @@
+/media/charmik/F/hystrix-demo/hystrix-faulty-service/src/main/java/faulty/server/FaultyServerApplication.java
+/media/charmik/F/hystrix-demo/hystrix-faulty-service/src/main/java/faulty/server/controller/FaultyController.java
+/media/charmik/F/hystrix-demo/hystrix-faulty-service/src/main/java/faulty/server/service/FaultyService.java

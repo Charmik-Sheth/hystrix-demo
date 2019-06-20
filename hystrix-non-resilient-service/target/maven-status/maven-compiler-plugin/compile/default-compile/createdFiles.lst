@@ -1,0 +1,4 @@
+nonresilient/server/service/NonResilientService.class
+nonresilient/server/NonResilientServerApplication.class
+nonresilient/server/client/FaultyServiceClient.class
+nonresilient/server/controller/NonResilientController.class

@@ -1,0 +1,7 @@
+resilient/server/client/FaultyServiceClient.class
+resilient/server/command/HealthyBehaviourCommand.class
+resilient/server/command/CrashBehaviourCommand.class
+resilient/server/service/ResilientService.class
+resilient/server/ResilientServerApplication.class
+resilient/server/command/DelayedBehaviourCommand.class
+resilient/server/controller/ResilientController.class
